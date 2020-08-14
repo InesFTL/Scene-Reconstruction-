@@ -3,6 +3,7 @@ During my MSc, I had to implement a scene reconstruction in 3D using the voxel c
 start to understand computer vision techniques such as camera parameters (intrisic, extrinsic), homography, RANSAC.
 
 <img src="https://user-images.githubusercontent.com/36988046/90298194-1d332b80-de89-11ea-852d-fdc310de8a23.png" width="500">
+
 ## Results
 
 <img src="https://user-images.githubusercontent.com/36988046/90298087-b6157700-de88-11ea-983d-cb125470e3ea.png" width="600">
